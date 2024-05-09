@@ -1,5 +1,5 @@
 {
-        "ftp": [
+    "ftp": [
         "http: //circleftp.net", "http://103.170.204.84", "http://15.1.1.1", "http://15.1.1.4", "http://15.1.1.5", "http://15.1.1.6", "http://ftp4.circleftp.net", "http://hd.circleftp.net", "http://emby.circleftp.net", "http://172.16.50.4", "http://172.16.50.5", "https://samftp.com",
         "http: //10.16.100.244", "http://10.16.100.202/ftps10", "http://10.16.100.206/ftps3", "http://ftpbd.net", "http://103.58.73.9", "http://media.ftpbd.net", "http://server1.ftpbd.net", "http://server4.ftpbd.net", "http://fs.ebox.live", "http://103.49.168.107", "http://fileserver.ebox.live", 
         "http: //play.ebox.live", "http://103.120.165.196", "http://dflix.discoveryftp.net", "http://cds1.discoveryftp.net", "http://cds2.discoveryftp.net", "http://cds3.discoveryftp.net", "http://www.ddnbd.fun", "http://ctgmovies.com", "http://crazyctg.com", "http://media.ctgfun.com", 
