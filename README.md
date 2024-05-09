@@ -1,4 +1,7 @@
-# BDIX Project
+![image](https://github.com/0xAhmadYousuf/BDIX/assets/139548576/bea4c8fc-c63f-4167-a96d-60a6825e5bf9)
+
+
+# BDIX FTP, TV, MOVIE Servers Checking Project
 
 This project aims to create a list of FTP, TV, and other BDIX servers in Bangladesh, categorized for easy access.
 
