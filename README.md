@@ -1,4 +1,5 @@
-![image](https://github.com/0xAhmadYousuf/BDIX/assets/139548576/bea4c8fc-c63f-4167-a96d-60a6825e5bf9)
+![image](https://github.com/0xAhmadYousuf/BDIX/assets/139548576/3db54d8f-7181-4702-b9ae-9120676eedf2)
+
 
 
 # BDIX FTP, TV, MOVIE Servers Checking Project
