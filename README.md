@@ -41,7 +41,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-2. Access the application in your web browser by `Ctrl` + `click`.
+2. Access the Servers in your web browser by `Ctrl` + `click`.
 
 
 
